@@ -5,7 +5,7 @@ body{
 }
 
 /*Construction of the box : Size, color, rounded edge, color*/
-#box {
+.box {
   width: 305px;
   height: 550px;
   margin-top:200px;
