@@ -1,7 +1,10 @@
+/*color of page*/
+
 body{
     background-color: hsl(217, 54%, 11%);
 }
 
+/*Construction of the box : Size, color, rounded edge, color*/
 #box {
   width: 305px;
   height: 550px;
@@ -15,38 +18,45 @@ body{
  font-size: 20px;
  color : hsl(0, 0%, 100%);
 }
+/*Font and weight for p*/
 p{
   font-family:'Outfit', sans-serif;
   font-weight: bold;
 }
+/*Font, color  and weight for class Taille*/
   p.Taille {
     font-family: 'Outfit', sans-serif;
     font-size : 18px;
     color : hsl(215, 19%, 54%);
     font-weight: 300;
   }
+  /*Size and rounded edge for image ice cube*/
   img {
     max-width: 305px; 
     height: 305px;
     border-radius: 10px 10px 10px 10px;
   }
+  /*Size logo ethereum*/
   .ether {
     max-width: 15px; 
     height: 15px;
     
  }
+ /*Size price eth*/
  .tailleEth {
   font-size: 21px; 
   color: hsl(178, 100%, 50%);
   font-weight: 600;
  
  }
+ /*color and siz horizontal line*/
  hr {
   background-color: hsl(215, 19%, 54%);
   height: 1px;
   border: none;
    
  }
+ /*Size, color and rounded edge* image avatar*/
  .avatar{
   max-width: 35px; 
   height: 35px;
@@ -55,7 +65,7 @@ p{
 border-color: white;
 border-radius: 20px 20px 20px 20px;
  }
-
+/* size clock but I don't know how to place it*/
  .montre {
   width: 20px;
   height: 20px;
