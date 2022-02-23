@@ -2,6 +2,7 @@
 
 body{
     background-color: hsl(217, 54%, 11%);
+   
 }
 
 /*Construction of the box : Size, color, rounded edge, color*/
@@ -17,7 +18,10 @@ body{
  border-radius: 15px 15px 15px 15px;
  font-size: 20px;
  color : hsl(0, 0%, 100%);
-}
+ 
+ }
+
+ 
 /*Font and weight for p*/
 p,.tailleEth{
   font-family:'Outfit', sans-serif;
@@ -90,7 +94,7 @@ bottom: 7.8em;
   margin-right: 50px;
   padding: 1px;
   position: relative;
-  bottom: 0.3em; left: 0.01em;
+  bottom: 0.4em; left: 0.01em;
   /*margin: 0px 0px 0px 200px; */
   
  }
@@ -111,7 +115,7 @@ bottom: 7.8em;
   font-weight: 600;
   margin-bottom: 20px;
   position: relative;
-  left: 1.5em; bottom: 10.5em;
+  left: 1.5em; bottom: 10.8em;
 
  }
 
@@ -120,25 +124,25 @@ bottom: 7.8em;
    font-family: 'Outfit', sans-serif;
    font-weight: 400;
    position: relative;
-   bottom: 3.3em; left: 15em;
+   bottom: 3.5em; left: 15em;
    color: hsl(215, 51%, 70%);
  }
 
  .author {
-  font-size: 15px; 
+  font-size: 16px; 
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   position: relative;
-  bottom: 1.5em; left: 3.4em;
+  bottom: 1.2em; left: 3em;
   color: hsl(215, 51%, 70%);
  }
 
  .name {
-  font-size: 15px;
+  font-size: 16px;
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   position: relative;
-  bottom: 3.75em; left: 8.7em;
+  bottom: 3.5em; left: 8.3em;
  }
   
   
